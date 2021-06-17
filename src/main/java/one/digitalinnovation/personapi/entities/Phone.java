@@ -1,4 +1,4 @@
-package one.digitalinnovation.personapi.entity;
+package one.digitalinnovation.personapi.entities;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
@@ -13,7 +13,6 @@ import javax.persistence.Enumerated;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
-import java.io.Serializable;
 
 @Entity
 @Data
