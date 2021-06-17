@@ -1,6 +1,21 @@
 <h2>Digital Innovation: Expert class - Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot</h2>
 
-Foram desenvolvidos e abordados os seguintes tópicos:
+**As tecnologias utilizadas foram:**
+
+- Linguagem Java
+- Spring Boot
+- JPA(Hibernate)
+- Gerenciador de Repositórios Maven
+- Banco de Dados H2
+- IDE Intellij
+- Git
+- GitHub
+- Heroku
+- Framework Lombok
+- Framework Mapstruct
+- Framework Mockito
+
+**Foram desenvolvidos e abordados os seguintes tópicos:**
 
 * Setup inicial de projeto com o Spring Boot Initialzr 
 * Criação de modelo de dados para o mapeamento de entidades em bancos de dados
